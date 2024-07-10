@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365178399090",
+    "project_id": "burcyorumlari-20efb",
+    "storage_bucket": "burcyorumlari-20efb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365178399090:android:7d53ffc6805ac7078515eb",
+        "android_client_info": {
+          "package_name": "com.zodiacapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1m9VnJXBglXgnLWPQRkU1kgp9mAnWBC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
